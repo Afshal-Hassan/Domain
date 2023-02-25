@@ -1,6 +1,34 @@
 .App {
   text-align: center;
+
 }
+
+.App::-webkit-scrollbar {
+  width: 2px !important;
+
+}
+
+body::-webkit-scrollbar{
+  width: 2px !important;
+}
+
+body::-webkit-scrollbar-track{
+  background-color: white !important;
+}
+
+body::-webkit-scrollbar-thumb{
+  background-color: #0D1625 !important;
+} 
+
+
+
+.App::-webkit-scrollbar-track{
+  background-color: white !important;
+}
+
+.App::-webkit-scrollbar-thumb{
+  background-color: #61dafb !important;
+} 
 
 .App-logo {
   height: 40vmin;
