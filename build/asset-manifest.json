@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.18ee0346.js",
+    "main.css": "/static/css/main.1b36edeb.css",
+    "main.js": "/static/js/main.8f118d96.js",
     "static/js/787.cdf61fd4.chunk.js": "/static/js/787.cdf61fd4.chunk.js",
+    "static/media/Nexa.jpeg": "/static/media/Nexa.4b621aa9ab09d8c32c2e.jpeg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.18ee0346.js.map": "/static/js/main.18ee0346.js.map",
+    "main.1b36edeb.css.map": "/static/css/main.1b36edeb.css.map",
+    "main.8f118d96.js.map": "/static/js/main.8f118d96.js.map",
     "787.cdf61fd4.chunk.js.map": "/static/js/787.cdf61fd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.18ee0346.js"
+    "static/css/main.1b36edeb.css",
+    "static/js/main.8f118d96.js"
   ]
 }
