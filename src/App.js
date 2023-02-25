@@ -5,6 +5,7 @@ import Icon from './components/Icon';
 
 
 function App() {
+  const state ='Hello';
   return (
     <div className="App">
       <Icon/>
