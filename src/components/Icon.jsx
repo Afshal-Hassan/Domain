@@ -10,18 +10,23 @@ function Icon() {
         <div id='svg-component'>
           <img src={Nexa} style={{
 
-            width:380,
-            height:380
+          
 
-          }}/>
+          }}
+          
+          className="nexa-icon"
+          />
           <h1 style={{
-            fontSize:235,
+      
             fontFamily:"Averta, sans-serif",
             position:"relative",
-            right:60,
-            color:"#0D1625"
+    
+            color:"#0D1625",
+          
 
-          }}>EXALAB</h1>
+          }}
+          className="icon-text"
+          >EXALAB</h1>
 
         </div>
     </div>

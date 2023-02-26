@@ -18,7 +18,7 @@ function App() {
           fontFamily:"Averta, sans-serif",
           color:"#0D1625",
           fontWeight:600,
-          fontSize:30.5
+
         }}
 
         >

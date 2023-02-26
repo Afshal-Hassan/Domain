@@ -54,6 +54,7 @@ body::-webkit-scrollbar-thumb{
 
 .App-link {
   color: #61dafb;
+  font-size:30.5px !important;
 }
 
 @keyframes App-logo-spin {
@@ -62,5 +63,31 @@ body::-webkit-scrollbar-thumb{
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+
+@media (max-width:420px) {
+  
+  .App-link {
+    color: #61dafb;
+    font-size:26.5px !important;
+  }
+}
+
+@media screen and (max-width:920px) and (min-width: 601px) {
+    
+  .App-link {
+    color: #61dafb;
+    font-size:45.5px !important;
+  }
+}
+
+
+@media (max-width:290px) {
+    
+  .App-link {
+    color: #61dafb;
+    font-size:23.5px !important;
   }
 }

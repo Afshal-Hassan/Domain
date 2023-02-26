@@ -28,6 +28,8 @@
 
 }
 
+
+
 .icon::-webkit-scrollbar{
     width: 2px !important;
 }
@@ -39,3 +41,84 @@
 .icon::-webkit-scrollbar-thumb{
     background-color: #61C2D0 !important;
 }
+
+.nexa-icon {
+    width:380px !important;
+    height:380px !important;
+}
+
+.icon-text{
+    font-size:235px !important;
+    right:60px !important;
+}
+
+.icon{
+display: flex !important;
+flex-direction: column !important;
+align-items: center !important;
+justify-content: center !important;
+height: 85vh !important;
+width: 100% !important;
+}
+
+@media (max-width:420px) {
+    
+    .nexa-icon{
+
+        width: 100px !important;
+        height: 100px !important;
+    }
+
+    .icon-text{
+        font-size:70px !important;
+        right:20px !important;
+    }
+}
+
+
+@media screen and (max-width:920px) and (min-width: 601px) {
+    
+    .nexa-icon{
+
+        width: 230px !important;
+        height: 230px !important;
+    }
+
+    .icon-text{
+        font-size:160px !important;
+        right:43px !important;
+    }
+}
+
+
+@media screen and (max-width:600px) and (min-width: 501px) {
+    
+    .nexa-icon{
+
+        width: 150px !important;
+        height: 150px !important;
+    }
+
+    .icon-text{
+        font-size:103px !important;
+        right:30px !important;
+    }
+}
+
+
+@media (max-width:290px) {
+    
+    .nexa-icon{
+
+        width: 80px !important;
+        height: 80px !important;
+    }
+
+    .icon-text{
+        font-size:55px !important;
+        right:15px !important;
+    }
+}
+
+
+
